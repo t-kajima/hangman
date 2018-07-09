@@ -1,3 +1,4 @@
+aa
 import os
 
 def hangman(word):
